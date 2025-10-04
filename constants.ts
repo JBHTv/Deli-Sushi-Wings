@@ -5,11 +5,11 @@ export const MENU_DATA: MenuCategory[] = [
     name: 'Sushi Clásicos',
     description: 'En su interior aguacate cremoso, pepino fresco, zanahoria y queso crema.',
     items: [
-      { id: 'maki', name: 'Maki', price: 85, description: 'Relleno de surimi fresco. Envuelto en alga nori coronado con deliciosa ensalada de surimi, salsa de anguila y aderezo de la casa.' },
-      { id: 'california', name: 'California', price: 90, description: 'Relleno de camarón. Coronado con deliciosa ensalada de surimi, salsa de anguila y aderezo de la casa.' },
-      { id: 'tampico-roll', name: 'Tampico Roll', price: 85, description: 'Relleno de atún fresco. Coronado con deliciosa ensalada tampico, salsa de anguila y aderezo de la casa.' },
-      { id: 'chicken-roll', name: 'Chicken Roll', price: 85, description: 'Relleno de pollo empanizado. Coronado con deliciosa ensalada de surimi, salsa de anguila y aderezo de la casa.' },
-      { id: 'mar-tierra', name: 'Mar y Tierra', price: 95, description: 'Relleno de jugos a carne de res a la parrilla y camarón. Coronado con deliciosa ensalada de surimi, salsa de anguila y aderezo de la casa.' },
+      { id: 'maki', name: 'Sushi Maki', price: 85, description: 'Relleno de surimi fresco. Envuelto en alga nori coronado con deliciosa ensalada de surimi, salsa de anguila y aderezo de la casa.' },
+      { id: 'california', name: 'Sushi California', price: 90, description: 'Relleno de camarón. Coronado con deliciosa ensalada de surimi, salsa de anguila y aderezo de la casa.' },
+      { id: 'tampico-roll', name: 'Sushi Tampico Roll', price: 85, description: 'Relleno de atún fresco. Coronado con deliciosa ensalada tampico, salsa de anguila y aderezo de la casa.' },
+      { id: 'chicken-roll', name: 'Sushi Chicken Roll', price: 85, description: 'Relleno de pollo empanizado. Coronado con deliciosa ensalada de surimi, salsa de anguila y aderezo de la casa.' },
+      { id: 'mar-tierra', name: 'Sushi Mar y Tierra', price: 95, description: 'Relleno de jugos a carne de res a la parrilla y camarón. Coronado con deliciosa ensalada de surimi, salsa de anguila y aderezo de la casa.' },
     ],
   },
   {
