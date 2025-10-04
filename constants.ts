@@ -16,7 +16,7 @@ export const MENU_DATA: MenuCategory[] = [
     name: 'Sushi Especiales',
     description: 'Los nuevos sushis especiales en el Restaurante.',
     items: [
-      { id: 'tocino-crunch', name: 'Tocino Crunch Roll', price: 115, description: 'Rollo gratinado cubierto con una capa de tocino dorado y crujiente. Interior de surimi fresco, zanahoria, pepino, aguacate cremoso y queso crema.' },
+      { id: 'tocino-crunch', name: 'Sushi Tocino Crunch Roll', price: 115, description: 'Rollo gratinado cubierto con una capa de tocino dorado y crujiente. Interior de surimi fresco, zanahoria, pepino, aguacate cremoso y queso crema.' },
       { id: 'sushi-dragon-verde', name: 'Sushi Dragón Verde', price: 125, description: 'Interior relleno de surimi fresco, cremoso aguacate y queso philadelphia. Cubierto de lonchas finas de salmón ahumado y aguacate, salsa anguila y un toque crujiente de cebolla frita.' },
       { id: 'sushi-explosion', name: 'Sushi Explosión de Sabores', price: 135, description: 'Relleno jugoso de camarón empanizado crujiente, aguacate y pepino. Superior con mix de atún fresco y masago. Cubierto con salsa de dinamita picante.' },
       { id: 'sushi-ninja', name: 'Sushi Ninja', price: 150, description: 'Envuelto en alga nori, con relleno de camarón, queso crema, pepino fresco. Cobertura de salmón ahumado, salsa teriyaki, y toque de masago.' },
