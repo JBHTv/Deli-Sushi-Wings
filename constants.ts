@@ -26,7 +26,7 @@ export const MENU_DATA: MenuCategory[] = [
       { id: 'golden-banana-roll', name: 'Golden Banana Roll', price: 105, description: 'Relleno de surimi fresco, queso crema, aguacate, pepino. Cubierto por finas láminas de plátano maduro.' },
       { id: 'sushi-gratinado', name: 'Sushi Gratinado con Queso', price: 105, description: 'Relleno de camarón, aguacate, pepino y queso crema. En la parte superior una capa de queso gratinado.' },
       { id: 'sushi-deli-especial', name: 'Sushi Deli Especial', price: 110, description: 'Interior con camarón, queso crema, aguacate, pepino y zanahoria. Decorado con ensalada de surimi, camarón y cebollin fresco.' },
-      { id: 'compostela-especial', name: 'Compostela Especial', price: 155, description: 'Interior con arrachera, aguacate, pepino, queso crema y tocino. Cubierto con queso gratinado, arrachera y chile serrano.' },
+      { id: 'compostela-especial', name: 'Sushi Compostela Especial', price: 155, description: 'Interior con arrachera, aguacate, pepino, queso crema y tocino. Cubierto con queso gratinado, arrachera y chile serrano.' },
     ],
   },
   {
